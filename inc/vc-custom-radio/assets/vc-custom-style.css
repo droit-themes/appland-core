@@ -1,0 +1,18 @@
+label.vc_radio-label {
+    display: block;
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+label.vc_radio-label img {
+    max-width: 500px;
+    max-height: 300px;
+    border: 1px solid #0473aa;
+}
+.vc_radio-label input {
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+}
